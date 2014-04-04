@@ -1,0 +1,2 @@
+offset:-8,-8
+icon_offset:-4,-1

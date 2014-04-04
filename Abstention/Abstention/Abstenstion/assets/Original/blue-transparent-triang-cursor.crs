@@ -1,0 +1,42 @@
+﻿[AppStarting]
+Path=Blue work.ani
+
+[No]
+Path=Blue stop.cur
+
+[Wait]
+Path=Blue busy.ani
+
+[Arrow]
+Path=Blue normal.cur
+
+[Help]
+Path=Blue help.cur
+
+[Hand]
+Path=Blue link.cur
+
+[NWPen]
+Path=Blue pencil.cur
+
+[Crosshair]
+Path=Blue precision.cur
+
+[IBeam]
+Path=Blue text.cur
+
+[SizeAll]
+Path=Blue move.cur
+
+[SizeNS]
+Path=Blue vertical.ani
+
+[SizeWE]
+Path=Blue horizontal.ani
+
+[SizeNWSE]
+Path=Blue diagonal.ani
+
+[SizeNESW]
+Path=Blue diagonal2.ani
+
